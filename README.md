@@ -29,3 +29,6 @@ python ood_baseline.py
 Different parameters, e.g. Epoch, BatchSize, and etc, can be adjusted with the arguments.
 Check arguments at the top of ood_baseline.py
 
+### References
+
+Some codes are brought from CSI-novelty detection (Neurips 2020)
