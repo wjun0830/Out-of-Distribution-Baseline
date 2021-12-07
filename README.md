@@ -31,4 +31,5 @@ Check arguments at the top of ood_baseline.py
 
 ### References
 
-Some codes are brought from CSI-novelty detection (Neurips 2020)
+Some codes are brought from CSI-novelty detection (Neurips 2020).
+Datasets can also be found in [link](https://github.com/alinlab/csi)
